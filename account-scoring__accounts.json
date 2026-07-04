@@ -1,0 +1,7 @@
+[
+  {"company": "Northwind Data", "industry": "Data Infrastructure", "employee_count": 85, "signal_strength": 8.5},
+  {"company": "Fieldworks AI", "industry": "Vertical SaaS", "employee_count": 40, "signal_strength": 4.5},
+  {"company": "Ledgerline", "industry": "Fintech", "employee_count": 340, "signal_strength": 0},
+  {"company": "Barrow & Finch", "industry": "Professional Services", "employee_count": 22, "signal_strength": 0},
+  {"company": "Colby Robotics", "industry": "Industrial Tech", "employee_count": 120, "signal_strength": 0}
+]
